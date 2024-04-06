@@ -8,9 +8,6 @@
   text-underline-offset: 5px;
 }
 
-.header__menu {
-}
-
 .header__links-list {
   display: flex;
   flex-direction: row;
