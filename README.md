@@ -1,1 +1,1 @@
- Пройдены все автотесты на GitHub
+https://github.com/ulianaChuk/ono-tebe-nado
