@@ -38,14 +38,11 @@
   font-style: normal;
   line-height: 1.35;
   text-underline-offset: 4px;
+  max-width: 237px;
 }
 
 .address a {
   display: block;
-}
-
-.address p {
-  max-width: 237px;
 }
 
 .header__address {
