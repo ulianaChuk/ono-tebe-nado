@@ -141,8 +141,6 @@
   border: 1px solid #ffffff;
   width: 256px;
   padding: 12px 31px;
-
-  white-space: nowrap;
 }
 
 .lots {
@@ -172,6 +170,7 @@
 
 .lots__card-list-item {
   width: 334px;
+  min-height: 100%;
   flex-grow: 1;
 }
 
@@ -233,7 +232,6 @@
   margin: 181px 24px 180px 71px;
   display: grid;
   grid-template-columns: min-content 1fr;
-  grid-template-rows: 240px 312px;
   gap: 4px 72px;
 }
 
